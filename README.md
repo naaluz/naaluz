@@ -1,7 +1,6 @@
 # sobre mim
 meu nome é @naaluz
-:1:] meu email de contato é @analu.lion@escola.pr.gov
-
+- 👍meu email de contato é @analu.lion@escola.pr.gov
 - 👋 Hi, I’m @naaluz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
