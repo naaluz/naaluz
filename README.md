@@ -1,5 +1,5 @@
 # sobre mim
-meu nome é @naaluz
+- meu nome é **@naaluz**
 - 👍meu email de contato é @analu.lion@escola.pr.gov
 - 👋 Hi, I’m @naaluz
 - 👀 I’m interested in ...
